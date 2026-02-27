@@ -1,9 +1,8 @@
-Assignment 1: Basic Network Topologies
+**Assignment 1: Basic Network Topologies**
 
 
 
 Course: ENCS304 Computer Networks 
-
 
 
 
@@ -127,6 +126,7 @@ Perform a ping between PCs on different switches.
 
 
 Observe how the network reconverges and restores communication through the redundant path.
+
 
 
 
