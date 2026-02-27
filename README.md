@@ -7,8 +7,11 @@ This repository contains the lab assignments and experiments conducted as part o
 * **Student Information**
 
 Name: Rishabh R Singh
+
 Roll Number: 2301730290
+
 Program: B.Tech CSE (AI & ML) - Section E 
+
 Semester: 6
 
 Instructor: Mr. Aijaz
