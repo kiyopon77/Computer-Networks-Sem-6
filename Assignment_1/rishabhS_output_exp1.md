@@ -42,7 +42,7 @@ Approximate round trip times in milli-seconds:
 
 
 
-=================================================================================================================================
+=========================================================================================
 
 
 
@@ -90,7 +90,7 @@ Approximate round trip times in milli-seconds:
 
 
 
-=================================================================================================================================
+=======================================================================================
 
 
 
@@ -183,6 +183,7 @@ Reply from 192.168.10.6: bytes=32 time=8ms TTL=128
 3. *This delay occurs due to Spanning Tree Protocol(STP) has to detect the link failure and transition the 
    'blocked' port to 'forward' state.*
 4. *The Ring topology is the only one that survived a hardware failure, proving its **high fault tolerance**.*
+
 
 
 
