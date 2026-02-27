@@ -49,7 +49,7 @@ Operating System: Windows, macOS, or Linux.
 
 1\. Opening the Network Designs
 
-Launch Cisco Packet Tracer.
+  Launch Cisco Packet Tracer.
 
 
 
@@ -61,15 +61,15 @@ Launch Cisco Packet Tracer.
 
 
 
-Task 1 (Star): Central 2960 Switch connected to 4 PCs.
+  Task 1 (Star): Central 2960 Switch connected to 4 PCs.
 
 
 
-Task 2 (Bus): Central PT-Hub connected to 4 PCs.
+  Task 2 (Bus): Central PT-Hub connected to 4 PCs.
 
 
 
-Task 3 (Ring): Three 2960 Switches connected in a loop.
+  Task 3 (Ring): Three 2960 Switches connected in a loop.
 
 
 
@@ -77,19 +77,19 @@ Task 3 (Ring): Three 2960 Switches connected in a loop.
 
 
 
-Click on any PC in the workspace.
+  Click on any PC in the workspace.
 
 
 
-Navigate to the Desktop tab and open the Command Prompt.
+  Navigate to the Desktop tab and open the Command Prompt.
 
 
 
-Type ping 192.168.10.x (replace x with the destination PCs IP).
+  Type ping 192.168.10.x (replace x with the destination PCs IP).
 
 
 
-A successful reply indicates correct IP configuration and connectivity.
+  A successful reply indicates correct IP configuration and connectivity.
 
 
 
@@ -97,19 +97,19 @@ A successful reply indicates correct IP configuration and connectivity.
 
 
 
-Switch to Simulation Mode.
-
-
-
-Click Edit Filters and ensure only ICMP is selected.
-
-
-
-Use the Add Simple PDU to send a message between two devices.
-
-
-
-Press Play/Forward to observe how the Switch (Star) filters traffic while the Hub (Bus) broadcasts it.
+  Switch to Simulation Mode.
+  
+  
+  
+  Click Edit Filters and ensure only ICMP is selected.
+  
+  
+  
+  Use the Add Simple PDU to send a message between two devices.
+  
+  
+  
+  Press Play/Forward to observe how the Switch (Star) filters traffic while the Hub (Bus) broadcasts it.
 
 
 
@@ -117,15 +117,16 @@ Press Play/Forward to observe how the Switch (Star) filters traffic while the Hu
 
 
 
-In the Ring-like Topology, use the Delete Tool to remove one cable between two switches.
+  In the Ring-like Topology, use the Delete Tool to remove one cable between two switches.
+  
+  
+  
+  Perform a ping between PCs on different switches.
+  
+  
+  
+  Observe how the network reconverges and restores communication through the redundant path.
 
-
-
-Perform a ping between PCs on different switches.
-
-
-
-Observe how the network reconverges and restores communication through the redundant path.
 
 
 
