@@ -6,7 +6,7 @@ This repository contains the lab assignments and experiments conducted as part o
 
 * **Student Information**
 
-Name: Rishabh R Singh
+Name: Rishabh Rajkishor Singh
 
 Roll Number: 2301730290
 
